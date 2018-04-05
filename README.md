@@ -9,3 +9,4 @@ Write the following keys and their values to a csv file for all tweets in this J
 - indicies
 - lang
 
+pip3 install python-twitter and run the twitter_seach.py file, it should print a json object. 
